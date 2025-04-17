@@ -20,8 +20,8 @@ A modular Python project that automates the process of scanning eBay "Buy It Now
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ebay-alert-bot.git
-   cd ebay-alert-bot
+   git clone https://github.com/Dusoye/ebay_scanner.git
+   cd ebay_scanner
    ```
 
 2. **Install dependencies**
