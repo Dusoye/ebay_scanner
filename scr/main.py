@@ -1,5 +1,3 @@
-
-import time
 from sheet_loader import load_reference
 from ebay_client   import search_ebay, process_results
 from data_store    import load_seen, save_seen
